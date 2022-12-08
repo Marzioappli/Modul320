@@ -28,7 +28,4 @@ public class Menu {
         handballer.setVerein(scannerVariable.nextLine());
         handballer.spieleranzeigen();
     }
-
-
-
 }
