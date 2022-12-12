@@ -1,17 +1,17 @@
 package K02;
 import java.util.Scanner;
 
-public class Handballer {
+public class Handballer { //Handball Class
     private String name;
     private String geschlecht;
-    private String haarfarbe;
+    private String haarfarbe;  //private String zu jeder Frage
     private String augenfarbe;
     private String grosse;
     private String gewicht;
     private String position;
     private String verein;
 
-    public void setName(String name) {
+    public void setName(String name) { // Public Methode
         this.name = name;
     }
 
@@ -42,7 +42,7 @@ public class Handballer {
     public void setVerein(String verein) {
         this.verein = verein;
     }
-    public void spieleranzeigen(){
+    public void spieleranzeigen(){ //Ausgabe von jeder Methode
         System.out.println("Name:" +this.name);
         System.out.println("Geschlecht:\n" +this.geschlecht);
         System.out.println("Haarfarbe:\n" +this.haarfarbe);
