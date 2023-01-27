@@ -4,6 +4,8 @@ import java.util.Scanner;
 public class Main {
         public static void main(String[] args) {
                 boolean userStopp = false;
+                String hallo = "hallo";
+
                 System.out.println("\nWelcome to Handball Premium!");
                 do {
 

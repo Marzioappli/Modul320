@@ -1,18 +1,17 @@
 package K03;
 
-import java.util.Scanner;
 
 public class Handballer { //Handball Class
     private String name;
     private String geschlecht;
     private String haarfarbe;  //private String zu jeder Frage
     private String augenfarbe;
-    private String grosse;
-    private String gewicht;
+    private int grosse;
+    private int gewicht;
     private String position;
     private String verein;
 
-    public void setName(String name) { // Public Methode
+    public void setName(String name)  { // Public Methode
         this.name = name;
     }
 
@@ -20,6 +19,10 @@ public class Handballer { //Handball Class
         this.geschlecht = geschlecht;
     }
 
+    /**
+     * Setzt Atribut haarfarbe
+     * @param haarfarbe haarfarbe
+     */
     public void setHaarfarbe(String haarfarbe) {
         this.haarfarbe = haarfarbe;
     }
@@ -28,12 +31,15 @@ public class Handballer { //Handball Class
         this.augenfarbe = augenfarbe;
     }
 
-    public void setGrosse(String grosse) {
+    public void setGrosse(int grosse) {
         this.grosse = grosse;
     }
 
-    public void setGewicht(String gewicht) {
+    public void setGewicht(int gewicht) throws Exception {
         this.gewicht = gewicht;
+        if (gewicht <= 0){
+            throw new Exception("Gewicht iunghültihg");
+        }
     }
 
     public void setPosition(String position) {
@@ -43,7 +49,9 @@ public class Handballer { //Handball Class
     public void setVerein(String verein) {
         this.verein = verein;
     }
-    public void spieleranzeigen(){ //Ausgabe von jeder Methode
+
+
+    public void spieleranzeigen(){
         System.out.println("Name:" +this.name);
         System.out.println("Geschlecht:\n" +this.geschlecht);
         System.out.println("Haarfarbe:\n" +this.haarfarbe);

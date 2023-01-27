@@ -11,7 +11,7 @@ public class Handballer { //Handball Class
     private String position;
     private String verein;
 
-    public void setName(String name) { // Public Methode
+    public void setName(String name) {
         this.name = name;
     }
 

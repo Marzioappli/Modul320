@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f888feb-4d34-42f9-8ed7-1a43107ec077" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Modul320.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/K04/Actor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/K04/Drehort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/K04/Film.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/K04/Genre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/K04/K04 Diagramm richtig.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/K04/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/K04/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/K04/Requisiten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/K09/Handballer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/K09/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/K09/Programm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modul320/K01/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modul320/K01/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modul320/K02/Handballer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modul320/K02/Handballer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modul320/K02/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modul320/K02/Menu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modul320/K02/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modul320/K02/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/K01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/K01/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/K02/Handballer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/K02/Handballer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/K02/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/K02/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/K02/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/K02/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/K02/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/K02/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/K03/Handballer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/K03/Handballer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/K03/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/K03/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/K03/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/K03/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/K03/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/K03/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/K09/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/K09/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2JB89aNyq1j9aGadZl4yCASIe8s" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Marzio\TBZ\Modul320\src\K04" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="K09.Main" />
+      <module name="Modul320" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="K09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="K03.Main" />
+      <module name="Modul320" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f888feb-4d34-42f9-8ed7-1a43107ec077" name="Changes" comment="" />
+      <created>1671539964988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671539964988</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

@@ -3,10 +3,6 @@ package K02;
 import java.util.Scanner;
 
 public class Menu {
-    public static void scanner() {
-        Scanner scannerVariable = new Scanner(System.in);
-        System.out.println("Handballer: " + scannerVariable.nextLine());
-    }
     public void haupt() {
         Handballer handballer = new Handballer();
         System.out.println("Namen des Spielers!");
