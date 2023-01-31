@@ -5,4 +5,4 @@ Als abstrakte Klasse wird eine Klasse bezeichnet, von der keine Objekte erzeugt 
 ## Interface
 Interface ist eine Art Klasse, die nur aus Konstanten und abstrakten Methoden besteht.
 ## Polymorphismus
-Konzept, das ermöglicht, dass ein Bezeichner abhängig von seiner Verwendung Objekte unterschiedlichen Datentyps annimmt.
+Konzept, das ermöglicht, dass ein Bezeichner abhängig von seiner Verwendung Objekte unterschiedlichen Datentyps annimmt. Man unterscheidet zwischen statischer und dynamischer Polymorphie
