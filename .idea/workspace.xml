@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f888feb-4d34-42f9-8ed7-1a43107ec077" name="Changes" comment="" />
+    <list default="true" id="7f888feb-4d34-42f9-8ed7-1a43107ec077" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/K06/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +33,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Marzio\TBZ\Modul320\src\K05" />
       <recent name="C:\Users\Marzio\TBZ\Modul320\src\K04" />
     </key>
   </component>
